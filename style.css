@@ -1,0 +1,74 @@
+.area{
+    height: 70px;
+    width: 400px;
+    border-radius: 10px;
+    padding: 5px;
+    align-items: center;
+    font-size:25px ;
+    background-color: rgb(19, 35, 68);
+    color: white;
+    font-weight: bold;
+    font-size: 37px;
+    border: black solid;
+}
+.Row{
+    width: 400px;
+    background-color: rgb(19, 35, 68);
+    border-radius: 8px;
+    padding: 5px;
+    padding-bottom: 10px;
+    border: black solid;
+}
+.eq{
+    font-weight: bold;
+    font-size: 30px;
+    background-color: rgb(36, 194, 62);
+    border: none;
+    border-radius: 7px;
+    color: white;
+    padding: 5px 0px;
+    border-bottom: solid rgb(193, 252, 154) 5px;
+}
+.reset{
+    color: white;
+    background-color: rgb(255, 33, 33);
+    border: none;
+    border-radius: 7px;
+    padding: 5px 0px;
+    font-weight: bold;
+    font-size: 27px;
+    border-bottom: solid rgb(231, 123, 123) 5px;
+}
+.bu {
+    border: none;
+    border-radius: 7px;
+    font-size: 27px;
+    font-weight: bold;
+    background-color: rgb(53, 71, 116);
+    background-color: white;
+    border-bottom: solid rgb(167, 163, 163) 5px;
+}
+.obu {
+    border: none;
+    border-radius: 7px;
+    font-size: 27px;
+    font-weight: bold;
+    background-color: rgb(53, 71, 116);
+    background-color: white;
+    border-bottom: solid rgb(167, 163, 163) 5px;
+}
+.del{
+    background-color: rgb(255, 29, 29);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    border-radius: 7px;
+    padding: 15px;
+    font-weight: bold;
+    border-bottom: solid rgb(236, 125, 125) 5px;
+}
+button:focus{
+    border: none;
+}
+button{
+    outline: none !important;
+}
